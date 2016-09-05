@@ -1,0 +1,21 @@
+{
+    "name": "croberts/testing-sandbox",
+    "description": "learn to test php with phpunit and other tools",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "stats": "Baseball.php"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christopher J. Roberts",
+            "email": "croberts@bizjournals.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

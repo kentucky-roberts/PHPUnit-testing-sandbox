@@ -1,0 +1,17 @@
+{
+  "name": "testing-sandbox",
+  "authors": [
+    "Christopher J. Roberts <croberts@bizjournals.com>"
+  ],
+  "description": "PHPUnit testing sandbox",
+  "main": "phpunit.xml",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
